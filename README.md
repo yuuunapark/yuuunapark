@@ -1,5 +1,5 @@
 - 👋 Sungkyunkwan University Statistics
-- 👀 P-SAT 29th Regression Anaysis Team (2022-1)
+- 👀 P-SAT 29th Regression Analysis Team (2022-1)
 - 🌱 P-SAT 29th Deep Learning Team (2022-2)
 - 💞️ 
 - 📫 
