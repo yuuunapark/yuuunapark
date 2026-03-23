@@ -1,6 +1,6 @@
 # Hi, I'm Yuna Park 👋
 
-I'm a graduate student at **Yonsei University** (M.S., Electrical & Electronic Engineering), researching **LLM Safety & Alignment** and **LLM Reasoning & Hallucination**. I'm also a student researcher at **KIST** (Korea Institute of Science and Technology).
+I'm a graduate student at **Yonsei University** (M.S., Electrical & Electronic Engineering), researching **LLM Safety & Alignment**. I'm also a student researcher at **KIST** (Korea Institute of Science and Technology).
 
 ---
 
