@@ -37,8 +37,7 @@ Mincheol Park, Dongjin Kim, Cheonjun Park, **Yuna Park**, Gyeong Eun Gong, Won W
 
 ## 🎓 Education
 
-- **M.S.** Electrical & Electronic Engineering, Yonsei University *(2024 – present)*
-  Yonsei-KIST Cooperative Graduate Program · Advised by Prof. Won Woo Ro @ [eSCaL](https://escal.yonsei.ac.kr/)
+- **M.S.** Electrical & Electronic Engineering, Yonsei University *(2024 – 2026.08)*
 - **B.S.** Statistics, Sungkyunkwan University *(2020 – 2024)*
 
 ---
