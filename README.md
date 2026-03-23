@@ -56,6 +56,6 @@ Mincheol Park, Dongjin Kim, Cheonjun Park, **Yuna Park**, Gyeong Eun Gong, Won W
 ## 📫 Contact
 
 - 📧 yuna.park@yonsei.ac.kr
-- 📝 [Blog (Tistory)](https://tistory.com)
-- 🔗 [Google Scholar](https://scholar.google.com)
+- 📝 [Blog (Tistory)]([https://tistory.com](https://mygreeeendiary.tistory.com/))
+- 🔗 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?hl=ko&view_op=list_works&authuser=1&gmla=AEk_c1teOtaBS3qiVQYphEDQXPSacipo4NhC80F3ylO2UrLuv2nmdew4X3T-R1yPFeUyhI2qjDmrf2QTxSgFpyP5SBmh395Mg2vzOujsakzIJApcIemSAWIkAhWwpG0&user=Gj28IUYAAAAJ))
 
