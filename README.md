@@ -6,8 +6,8 @@ I'm a graduate student at **Yonsei University** (M.S., Electrical & Electronic E
 
 ## 🔬 Research Interests
 
-- **LLM Safety & Alignment** — jailbreak susceptibility, prompt-based behavior induction, red teaming
-- **LLM Reasoning & Hallucination** — robustness and reliability of large language models
+- **LLM Safety & Alignment** 
+- **LLM Reasoning & Interpretability** 
 
 ---
 
