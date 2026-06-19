@@ -13,9 +13,9 @@ I'm a graduate student at **Yonsei University** (M.S., Electrical & Electronic E
 
 ## 📄 Publications
 
-**[1]** **Jailbreak Susceptibility Is State-Contingent: The Impact of Ordinary System Prompts**
+**[1]** **The Fragility of Jailbreak Robustness Across Operational States**
 Yuna Park, Hwang Youn Kim, Yujin Kim, Won Woo Ro, Suhyun Kim, Jea In Hwang
-*Submitted to ACL Rolling Review (ARR), Mar 2026*
+*Submitted to ACL Rolling Review (ARR), May 2026*
 
 **[2]** **The Impact of Prompt-Based Personality Induction on Safety of LLMs**
 Yuna Park, Yujin Kim, Won Woo Ro, Hyunjun Kim, Junwoo Ha, Suhyun Kim
