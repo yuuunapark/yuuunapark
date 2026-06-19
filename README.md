@@ -55,5 +55,4 @@ Mincheol Park, Dongjin Kim, Cheonjun Park, **Yuna Park**, Gyeong Eun Gong, Won W
 
 ## 📫 Contact
 
-- 📧 yuna.park@yonsei.ac.kr
-
+- 📧 yunaparkgreen@gmail.com
